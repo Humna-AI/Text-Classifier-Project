@@ -1,5 +1,5 @@
 # Text Classifier Project
-Assignment 2 for building LSTM and Transformer-based text classifiers.
-- Dataset: data/data.jsonl
+For building LSTM and Transformer-based text classifiers.
+- Dataset: data.jsonl
 - Models: LSTM (GloVe), Transformer (BERT)
-- Run: `python src/text_classifier.py`
+- Run: `text_classifier.py`
